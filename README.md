@@ -17,3 +17,8 @@
 
 ## Data
 - https://hcai.ca.gov/data-and-reports/healthcare-utilization/inpatient/
+
+
+
+- Explore de-identified [OSHPD/HCAI data about hospital discharges in California](https://hcai.ca.gov/data-and-reports/healthcare-utilization/inpatient/) from 2008-2014 to explore the relationship between mental health (and other) diagnoses and demographic variables 
+
