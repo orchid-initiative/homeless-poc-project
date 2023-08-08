@@ -20,5 +20,9 @@
 
 
 
-- Explore de-identified [OSHPD/HCAI data about hospital discharges in California](https://hcai.ca.gov/data-and-reports/healthcare-utilization/inpatient/) from 2008-2014 to explore the relationship between mental health (and other) diagnoses and demographic variables 
+- Explore de-identified [OSHPD/HCAI data about hospital discharges in California](https://hcai.ca.gov/data-and-reports/healthcare-utilization/inpatient/) from 2008-2014 to explore the relationship between mental health (and other) diagnoses and demographic variables
+
+- TO READ:
+  https://homelessness.ucsf.edu/our-impact/our-studies/california-statewide-study-people-experiencing-homelessness
+
 
